@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/demo/TemplateData/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/demo/Build/angular-nc-1.loader.js"
+            ]
           },
           "configurations": {
             "production": {
